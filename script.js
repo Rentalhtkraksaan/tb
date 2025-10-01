@@ -160,7 +160,7 @@ Saya percaya, bergabung dengan Club Wirausaha bukan hanya tentang belajar bisnis
 Ayo bergabung! Karena masa depan cerah adalah milik mereka yang berani memulai.
 
 Yuk Gabung CWU
-Tag 3 tmen unuja kamu
+Tag 3 tmen unuja kamu(hapus bagian ini)
 1.
 2.
 3.
@@ -205,3 +205,4 @@ window.copyCaption = function() {
 const img = new Image();
 img.src = "cwu-foto.jpg";
 img.onload = () => document.body.classList.add("bg-loaded");
+
