@@ -135,7 +135,7 @@ document.body.innerHTML = `
     <p class="lead">Ayo jadi bagian dari kami! Pasang Twibbon-mu dan tunjukkan semangatmu ✨</p>
 
     <div class="button-group">
-      <a href="https://twibbo.nz/opreccwu2025" class="twibbon-button" target="_blank">🎉 Pasang Twibbon</a>
+      <a href="https://twibbo.nz/wirausaha25" class="twibbon-button" target="_blank">🎉 Pasang Twibbon</a>
       <a href="https://drive.google.com/file/d/12blA5WNfz3CvaJAnj8yOfYQ4GGW1Kqja/view?usp=sharing" class="rules-button" target="_blank">📄 Lihat Ketentuan</a>
     </div>
 
@@ -205,4 +205,5 @@ window.copyCaption = function() {
 const img = new Image();
 img.src = "cwu-foto.jpg";
 img.onload = () => document.body.classList.add("bg-loaded");
+
 
